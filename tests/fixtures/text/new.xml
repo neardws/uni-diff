@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item id="1">
+    <name>First Item Modified</name>
+    <value>150</value>
+  </item>
+  <item id="2">
+    <name>Second Item</name>
+    <value>200</value>
+  </item>
+  <item id="3">
+    <name>Third Item</name>
+    <value>300</value>
+  </item>
+</root>

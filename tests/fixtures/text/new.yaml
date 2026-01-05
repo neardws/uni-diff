@@ -1,0 +1,13 @@
+name: my-app
+version: 2.0.0
+database:
+  host: db.example.com
+  port: 5432
+  name: mydb
+  ssl: true
+features:
+  - login
+  - dashboard
+  - reports
+  - analytics
+  - notifications

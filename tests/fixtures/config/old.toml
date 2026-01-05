@@ -1,0 +1,11 @@
+[package]
+name = "my-project"
+version = "0.1.0"
+authors = ["John Doe"]
+
+[dependencies]
+serde = "1.0"
+tokio = "1.0"
+
+[build]
+target = "release"

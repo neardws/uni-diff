@@ -1,0 +1,19 @@
+# Core dependencies (all optional, text diff works without any)
+
+# PDF support (choose one)
+# pymupdf>=1.20.0  # Pure Python PDF library
+# Or use system pdftotext from poppler-utils
+
+# Microsoft Office formats
+python-docx>=0.8.0    # Word documents
+openpyxl>=3.0.0       # Excel spreadsheets
+python-pptx>=0.6.0    # PowerPoint presentations
+
+# Image support
+Pillow>=9.0.0         # Image processing and PNG output
+pytesseract>=0.3.0    # OCR for image text extraction (requires tesseract-ocr)
+
+# Development dependencies
+# pytest>=7.0.0
+# black>=22.0.0
+# mypy>=0.990

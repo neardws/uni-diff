@@ -1,0 +1,10 @@
+name: my-app
+version: 1.0.0
+database:
+  host: localhost
+  port: 5432
+  name: mydb
+features:
+  - login
+  - dashboard
+  - reports
