@@ -45,3 +45,4 @@ Thumbs.db
 /tmp/
 *.png
 !tests/fixtures/images/*.png
+!docs/images/*.png
