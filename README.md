@@ -1,7 +1,7 @@
 # uni-diff
 
 [![GitHub release](https://img.shields.io/github/v/release/neardws/uni-diff)](https://github.com/neardws/uni-diff/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Universal file diff tool - compare any files with multiple output formats.
 
